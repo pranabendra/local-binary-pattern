@@ -9,4 +9,4 @@ Python implementation for works in 1D Local Binary Patterns
 
 ## How to run these files?
 1. Open terminal/cmd and navigate to the `local-binary-pattern` directory. 
-2. Run `python3 <filename> <window size>` or `python <filename> <window size>` depending on your system.
+2. Run `python3 1D_transform <filename> <window size>` or `python 1D_transform <filename> <window size>` depending on your system.
